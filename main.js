@@ -5,3 +5,5 @@ console.log("Hola" + nombre + "Bienvenido a " + blog
 prueba de commit
 
 prueba de verifiacion de escritura
+
+no se que paso
